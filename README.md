@@ -5,7 +5,7 @@ Uma experiência visual interativa feita com HTML, CSS e JavaScript, onde uma ba
 📸 Preview
 A baleia se move suavemente pela tela conforme a posição do cursor, com renderização baseada em SVG e efeitos visuais animados.
 
-<!-- Adicione uma imagem ou GIF de demonstração, se desejar -->
+🔗 Clique aqui para baixar ou visualizar o GIF
 
 🔧 Tecnologias Utilizadas
 HTML5
