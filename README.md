@@ -18,22 +18,6 @@ jQuery 2.1.3
 
 SVG para gráficos vetoriais
 
-🚀 Como Executar
-Clone este repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/baleia-interativa.git
-Acesse a pasta:
-
-bash
-Copiar
-Editar
-cd baleia-interativa
-Abra o arquivo interactive-whale.html no navegador de sua escolha.
-
-Não é necessário instalar dependências – tudo roda localmente via arquivos estáticos.
 
 📁 Estrutura do Projeto
 r
